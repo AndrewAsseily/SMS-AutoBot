@@ -25,8 +25,8 @@ your_phone_number = 'your_phone_number_here'
 Replace the placeholders with your actual values.
 
 Next, you can run the bot by running the following command:
-
+```python
 python3 twilioMorning.py
-
+```
 This will send you a message with the weather in New York City, the number of days until your 50th birthday, and the stock price of Paypal.
 
